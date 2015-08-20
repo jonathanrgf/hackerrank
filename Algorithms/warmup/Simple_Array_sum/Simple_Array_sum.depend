@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1440091649 source:/home/jonathanrgf/Dropbox/github/hackerrank/Algorithms/warmup/Simple_Array_sum/main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
