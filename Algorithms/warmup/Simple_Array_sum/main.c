@@ -13,8 +13,6 @@ int main() {
     }
     while(t < 1 || t > 1000);
 
-
-
     int num_arr[t];
 
     int sum = 0;
